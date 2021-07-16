@@ -1,0 +1,82 @@
+@charset "utf-8";
+/* CSS Document */
+{
+	margin: 0;
+	padding: 0;
+}
+#wrapper {
+	width: 1200px;
+	margin: 0 auto;
+	padding: 20px;
+	background: #22EDEA;
+}]
+header{
+	background: pink;
+	padding: 15px 0;
+	display: flex;
+	justify-content: space-between;
+
+}
+.selection-logo{
+	display: flex;
+	justify-content:space-around;
+	padding: 15px 0;
+	background: pink;
+		
+	
+}
+.logo {
+	width: 20%;
+	height: 80px;
+	background: #E32225;
+	
+}
+.menu {
+	width: 79%;
+	height: 80px;
+	background: #E32225;
+	
+}
+main {
+	padding: 15px 0;
+}
+.selection-1{
+	display:flex;
+	justify-content: space-around;
+	padding: 15px 0;
+	background: pink;
+	
+}
+.left{
+	width: 48%;
+	height: 500px;
+	background: #E32225;
+}
+.selection-2{
+	display: flex;
+	justify-content: space-between;
+	background: pink;
+	padding: 150px 0px 15px 0px;
+}
+.bot{
+	width: 30%;
+	height: 350px;
+	background: #E32225;
+
+}
+footer {
+	padding: 15px 0;
+}
+.selection-foot {
+	display: flex;
+	justify-content: space-around;
+	background: pink;
+	padding: 15px 0;
+	
+}
+.foot {
+	width: 40%;
+	height: 45px;
+	background: #E32225;
+	
+}
